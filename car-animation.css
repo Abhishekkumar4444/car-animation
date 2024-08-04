@@ -70,11 +70,11 @@
 	animation: wheel 1s linear infinite;
 }
 .back-wheel{
-	left: -115px;
+	left: -105px;
 	position: absolute;
 }
 .front-wheel{
-	left: 253px;
+	left: 243px;
 	position: absolute;
 }
 
